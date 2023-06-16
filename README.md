@@ -22,6 +22,7 @@ print("rows",len(df.axes[0]))
 print("columns",len(df.axes[1]))
 ```
 ## OUTPUT:
-![image](https://github.com/tharikasankar/Read-from-CSV/assets/119475507/5517c8ef-ee51-4e9e-84df-cbcfd9a920a9)
+![image](https://github.com/tharikasankar/Read-from-CSV/assets/119475507/3cfed574-3f6c-4538-946a-d8d0ce12c0c9)
+
 
 ## RESULT:
